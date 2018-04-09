@@ -1,0 +1,11 @@
+﻿  1.cpp
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(207): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(219): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(349): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(361): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(470): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(482): warning C4018: '<': signed/unsigned mismatch
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(58): warning C4101: 'buf2': unreferenced local variable
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(131): warning C4101: 'cmd2': unreferenced local variable
+c:\users\nguyen binh minh\source\repos\btlon\1\1.cpp(131): warning C4101: 'tmp': unreferenced local variable
+  1.vcxproj -> C:\Users\Nguyen Binh Minh\source\repos\BTLon\Debug\1.exe
